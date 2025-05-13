@@ -3,7 +3,7 @@
 <h2>WordPress Development Projects:</h2>
 
 - <b>The following is the Homepage of a website called ALBY.COM which I cloned using wordpress. </b>
-  - [](https://dhruv.mediarcrm.com/)
+  - [click here to View ](https://dhruv.mediarcrm.com/)
 - <b>The following is the pricing forthe same using wordpress.</b>
   - [](https://dhruv.mediarcrm.com/pricing-new/)
 - <b>The following is the Experimental Blog page for a client using wordpress.</b>
