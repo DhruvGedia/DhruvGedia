@@ -3,13 +3,13 @@
 <h2>WordPress Development Projects:</h2>
 
 - <b>The following is the Homepage of a website called ALBY.COM which I cloned using wordpress. </b>
-  - [click here to View! ](https://dhruv.mediarcrm.com/)
+  - [Click here to view!](https://dhruv.mediarcrm.com/)
 - <b>The following is the pricing forthe same using wordpress.</b>
-  - [](https://dhruv.mediarcrm.com/pricing-new/)
+  - [Click here to view!](https://dhruv.mediarcrm.com/pricing-new/)
 - <b>The following is the Experimental Blog page for a client using wordpress.</b>
-  - [](https://dhruv.mediarcrm.com/blog/)
+  - [Click here to view!](https://dhruv.mediarcrm.com/blog/)
 - <b>The following is the official website of the past company that i worked for, I contributed towards the making of the footer of that website. </b>
-  - [](https://recruitcrm.io/)
+  - [Click here to view!](https://recruitcrm.io/)
 
 
 <h2>Connect with me:</h2>
