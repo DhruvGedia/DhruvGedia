@@ -2,14 +2,14 @@
 
 <h2>WordPress Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://dhruv.mediarcrm.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://dhruv.mediarcrm.com/pricing-new/)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://dhruv.mediarcrm.com/blog/)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://recruitcrm.io/)
+- <b>The following is the Homepage of a website called ALBY.COM which I cloned using wordpress. </b>
+  - [](https://dhruv.mediarcrm.com/)
+- <b>The following is the pricing forthe same using wordpress.</b>
+  - [](https://dhruv.mediarcrm.com/pricing-new/)
+- <b>The following is the Experimental Blog page for a client using wordpress.</b>
+  - [](https://dhruv.mediarcrm.com/blog/)
+- <b>The following is the official website of the past company that i worked for, I contributed towards the making of the footer of that website. </b>
+  - [](https://recruitcrm.io/)
 
 
 <h2>Connect with me:</h2>
